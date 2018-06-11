@@ -1,0 +1,9 @@
+{
+	"devDependencies": {
+		"lerna": "^2.11.0",
+		"serverless": "^1.27.3"
+	},
+	"scripts": {
+		"start": "lerna run local --stream"
+	}
+}
